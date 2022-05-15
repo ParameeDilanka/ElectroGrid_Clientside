@@ -41,7 +41,7 @@ https://github.com/ParameeDilanka/ElectroGrid_Clientside/blob/master/Database/eg
 
 <h3>View Interrupt Details</h3>
 
-!["ElectroGrid_Clientside"]( "ElectroGrid_Clientside")
+!["ElectroGrid_Clientside"](https://github.com/ParameeDilanka/ElectroGrid_Clientside/blob/master/UI/View%20Interrupt%20Details.png "ElectroGrid_Clientside")
 
 <h3>Delete Interrupt Details</h3>
 

@@ -5,9 +5,12 @@ My project is based on a company who maintains the power grid of the country.I h
 
 #  The technologies we used were
 -  java JAX-RS(jersy) Restful web service  
--  Apache  Tomcat  
+-  Apache Tomcat  
 -  mysql as the database 
 -  eclipse IDE.
+-  View - HTML, CSS, Bootstrap (optional)
+-  Form and Grid UI design pattern
+-  Client-components: jQuery, Ajax for DC.
 
 
 # How to execute the project?

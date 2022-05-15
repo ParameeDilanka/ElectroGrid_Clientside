@@ -37,7 +37,7 @@ https://github.com/ParameeDilanka/ElectroGrid_Clientside/blob/master/Database/eg
 
 <h3>Insert, Update Interrupt Details</h3>
 
-!["ElectroGrid_Clientside"](https://res.cloudinary.com/dyelytpla/image/upload/v1652514571/Insert_Update_Interrupt_Details_zbqvp8.png "ElectroGrid_Clientside")
+!["ElectroGrid_Clientside"]( "ElectroGrid_Clientside")
 
 <h3>View Interrupt Details</h3>
 

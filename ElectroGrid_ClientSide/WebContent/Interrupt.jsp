@@ -66,10 +66,11 @@
 				<div id="alertSuccess" class="alert alert-success"></div>  
 				<div id="alertError" class="alert alert-danger"></div> 
 				
-				<br>		
+				<br>
+				<br></br>		
             <div class="row">
                 <div class="container">
-                    <h3 class="text-center">Customer Details</h3>
+                    <h3 class="text-center">Interrupt Details</h3>
                     <hr>
                     <div class="container text-left">
 

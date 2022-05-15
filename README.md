@@ -45,4 +45,4 @@ https://github.com/ParameeDilanka/ElectroGrid_Clientside/blob/master/Database/eg
 
 <h3>Delete Interrupt Details</h3>
 
-!["ElectroGrid_Clientside"](https://res.cloudinary.com/dyelytpla/image/upload/v1652514664/Delete_Interrupt_Details_l1zc34.png "ElectroGrid_Clientside")
+!["ElectroGrid_Clientside"]( "ElectroGrid_Clientside")

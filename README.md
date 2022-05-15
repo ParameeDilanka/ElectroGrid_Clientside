@@ -22,7 +22,8 @@ https://github.com/ParameeDilanka/ElectroGrid_Clientside/blob/master/Database/eg
 
 #  Developer
 
--  Weesinghe W. M. P. D         - IT20019204
+-  Weesinghe W. M. P. D   - IT20019204
+-  WE IT 2.1 Group
 
 
 # Screenshot of the UI
